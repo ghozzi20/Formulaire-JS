@@ -1,0 +1,31 @@
+body {
+    display: flex;
+justify-content: center;
+}
+.insc{width: 500px;
+    height: 320;
+    font-size: large;
+    background-color: rgb(201, 192, 75);
+
+}
+#cin {width: 100px;
+    margin-left: 84px;
+    margin-top: 10px;
+}
+#mail {
+    margin-left: 21px;
+    margin-top: 10px;
+}
+.niveau {
+    margin-top: 10px;
+}
+.module {margin-top: 10px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.selct{
+    margin-right:210px;
+}
+.cham{
+    margin-top: 10px;
+}
